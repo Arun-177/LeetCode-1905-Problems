@@ -1,3 +1,4 @@
+//time complexity - O(n), here n is length of string
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
